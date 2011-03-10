@@ -1,5 +1,6 @@
 Author: Cosmin Pitu <pitu.cosmin@gmail.com>, http://bit.ly/dr1ku
-        ("Use at your own risk. Please do not use it for evil. Feedback is welcome. Thank you." [http://www.json.org/java/])
+        ("Use at your own risk. Please do not use it for evil. Feedback is welcome. Thank you.")
+        [http://www.json.org/java/]
 
 License: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
          (http://creativecommons.org/licenses/by-nc-sa/3.0/)
